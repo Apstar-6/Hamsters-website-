@@ -16,7 +16,20 @@ a:link{
 }
 a:visited{
 animation:po 
+}
+
+.hamster{
+  background-image: url(hamster.jpeg)
+  
+}
+img{
+  width:200px;
+  height: auto;
+  
+  border-style: solid;
+  border-radius: 10px;
   
   
 }
+
      
